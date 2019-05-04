@@ -1,0 +1,104 @@
+run:
+Enter board size 3 or bigger: 4
+Player 'X', enter your move (row[1-4] column[1-4]): 1
+1
+ X |   |   |   
+----------------
+   |   |   |   
+----------------
+   |   |   |   
+----------------
+   |   |   |   
+
+Player 'O', enter your move (row[1-4] column[1-4]): 2
+2
+ X |   |   |   
+----------------
+   | O |   |   
+----------------
+   |   |   |   
+----------------
+   |   |   |   
+
+Player 'X', enter your move (row[1-4] column[1-4]): 3
+3
+ X |   |   |   
+----------------
+   | O |   |   
+----------------
+   |   | X |   
+----------------
+   |   |   |   
+
+Player 'O', enter your move (row[1-4] column[1-4]): 4
+4
+ X |   |   |   
+----------------
+   | O |   |   
+----------------
+   |   | X |   
+----------------
+   |   |   | O 
+
+Player 'X', enter your move (row[1-4] column[1-4]): 1
+2
+ X | X |   |   
+----------------
+   | O |   |   
+----------------
+   |   | X |   
+----------------
+   |   |   | O 
+
+Player 'O', enter your move (row[1-4] column[1-4]): 2
+1
+ X | X |   |   
+----------------
+ O | O |   |   
+----------------
+   |   | X |   
+----------------
+   |   |   | O 
+
+Player 'X', enter your move (row[1-4] column[1-4]): 3
+2
+ X | X |   |   
+----------------
+ O | O |   |   
+----------------
+   | X | X |   
+----------------
+   |   |   | O 
+
+Player 'O', enter your move (row[1-4] column[1-4]): 2
+3
+ X | X |   |   
+----------------
+ O | O | O |   
+----------------
+   | X | X |   
+----------------
+   |   |   | O 
+
+Player 'X', enter your move (row[1-4] column[1-4]): 1
+4
+ X | X |   | X 
+----------------
+ O | O | O |   
+----------------
+   | X | X |   
+----------------
+   |   |   | O 
+
+Player 'O', enter your move (row[1-4] column[1-4]): 2
+4
+ X | X |   | X 
+----------------
+ O | O | O | O 
+----------------
+   | X | X |   
+----------------
+   |   |   | O 
+
+'O' won! Bye!
+BUILD SUCCESSFUL (total time: 1 minute 0 seconds)
